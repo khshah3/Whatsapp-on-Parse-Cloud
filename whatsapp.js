@@ -3,7 +3,6 @@
 //! version : 1.1.3
 //! authors : Karan Shah
 //! license : None
-//! momentjs.com
 
 (function (global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
