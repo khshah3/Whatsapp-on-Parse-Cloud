@@ -10,8 +10,8 @@ In your cloud/ folder for parse. Download and copy the file whatsapp.js (git clo
 
 Following the steps below:
 
-*First thing you want to do is go to http://wha.tools
-*Create an account with them (You can get a 20 day free trial)
+* First thing you want to do is go to http://wha.tools
+* Create an account with them (You can get a 20 day free trial)
 * Get the API key
 
 Enter the API key on this line
